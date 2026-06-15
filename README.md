@@ -1,4 +1,4 @@
-# AugustoRig0ni-# > cd AugustoRig0ni
+# > cd AugustoRig0ni
 
 ```bash
 $ whoami
